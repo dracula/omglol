@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [omg.lol](https://home.omg.lol/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [omg.lol](https://home.omg.lol/)
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/omglol](https://draculatheme.com/omglol).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha)           [![V Keerthi Vikram](https://github.com/vkeerthivikram.png?size=100)](https://github.com/vkeerthivikram) |
+| ------------------------------------------------------------ |
+| [Zeno Rocha](https://github.com/zenorocha)               [V Keerthi Vikram](https://github.com/vkeerthivikram) |
 
 ## Community
 

@@ -1,17 +1,12 @@
-### [Foobar](https://foobar.com)
+### [omg.lol](https://home.omg.lol/)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+Dracula Theme is Already Present in omg.lol. So, you don't need to install anything!
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Navigate to your address from your dashboard
+2. Navigate to your settings
+3. From the theme drop down, choose Dracula.
+4. Boom, Dracula theme 🧛🏻‍♂️!
