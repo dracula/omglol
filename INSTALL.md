@@ -2,7 +2,7 @@
 
 #### Install
 
-Dracula Theme is Already Present in omg.lol. So, you don't need to install anything!
+Dracula Theme is _already present_ in _omg.lol_. So, you don't need to install anything!
 
 #### Activating theme
 
