@@ -8,5 +8,4 @@ Dracula Theme is _already present_ in _omg.lol_. So, you don't need to install a
 
 1. Navigate to your address from your dashboard
 2. Navigate to your settings
-3. From the theme drop down, choose Dracula.
-4. Boom, Dracula theme 🧛🏻‍♂️!
+3. From the theme dropdown, choose Dracula.

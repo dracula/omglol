@@ -10,11 +10,11 @@ All instructions can be found at [draculatheme.com/omglol](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/omglol/graphs/contributors).
 
-| [![V Keerthi Vikram](https://github.com/vkeerthivikram.png?size=100)](https://github.com/vkeerthivikram) |
+| [![Bye](https://github.com/byemc.png?size=100)](https://github.com/byemc) |
 | -------------------------------------------------------------------------------------------------------- |
-| [V Keerthi Vikram](https://github.com/vkeerthivikram)                                                    |
+| [Bye](https://github.com/byemc)                                                    |
 
 ## Community
 
