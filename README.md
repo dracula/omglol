@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/omglol](https://draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/omglol/graphs/contributors).
 
-| [![Bye](https://github.com/byemc.png?size=100)](https://github.com/byemc) |
-| -------------------------------------------------------------------------------------------------------- |
-| [Bye](https://github.com/byemc)                                                    |
+| [![Bye](https://github.com/byemc.png?size=100)](https://github.com/byemc) | [![Adam Newbold](https://github.com/newbold.png?size=100)](https://github.com/newbold)
+| -------------------------------------------------------------------------------------------------------- |  --------------------------------------------------------------------------------------------------------
+| [Bye](https://github.com/byemc)                                                    | [Adam Newbold](https://github.com/newbold)  
 
 ## Community
 
